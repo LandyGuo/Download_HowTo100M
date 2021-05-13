@@ -5,7 +5,7 @@
 
 2. Fill the form provided by the author to get the `user_name` and `password` for mirror link downloading.
 
-3. Download videos by commands
+3. Download videos by the following command, you will need storage of ~12T to save all video files.
 ```python
 python download.py  --video_list_file path/to/howto100m_videos.txt --user_name user_name --password your_pass_word 
 --num_threads 20
